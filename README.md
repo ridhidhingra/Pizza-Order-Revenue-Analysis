@@ -61,7 +61,3 @@ pizza_types
 
 This project demonstrates strong SQL fundamentals and analytical thinking by solving real-world
 business questions. It is ideal for showcasing SQL skills in a data analyst portfolio.
-
-🚀 Conclusion
-
-This project demonstrates strong SQL fundamentals and analytical thinking by solving real-world business questions. It is ideal for showcasing SQL skills in a data analyst portfolio.
